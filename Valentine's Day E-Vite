@@ -1,0 +1,57 @@
+<html>
+<head>
+    <title>Valentine's Day Love Bash E-Vite</title>
+    <style>
+        body {
+            font-family: Comic Sans MS, sans-serif;
+            background-color: #ff66b2;
+            text-align: center;
+        }
+
+        .container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px auto;
+            width: 80%;
+        }
+
+        h1 {
+            color: #ff66b2;
+        }
+
+        .event-image {
+            max-width: 100%;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+        .date-time {
+            font-size: 24px;
+            color: #ff66b2;
+        }
+
+        .rsvp-button {
+            background-color: #ff66b2;
+            color: #ffffff;
+            font-size: 20px;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Valentine's Day Love Bash E-Vite</h1>
+       "Valentine's Bash"
+        <p>You're invited to a fun-filled Valentine's Bash!</p>
+        <p>Celebrate love with music, dancing, and great company.</p>
+        <p>Date & Time: <span class="date-time">February 14th, 2023, 7:00 PM</span></p>
+        <p>Join us for a night to remember!</p>
+        <a class="rsvp-button" >RSVP Now</a>
+    </div>
+</body>
+</html>
